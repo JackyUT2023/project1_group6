@@ -1,0 +1,52 @@
+Topic: Sports Statistics - 
+
+
+
+Possible data source:
+	- Ticket sales in differnt sport centers - How much people are willing to spends on watching live sport games 
+		--> API/CSV
+	- Data from TV sport channels --> API/CSV 
+		--->>Pie Chart
+	- # of sport players data on current and previous years from official organizations
+		--> Trend Analysis -->>Liner Regression and prediction
+
+Any relationship between income and sports?
+	- for example, people in higher income would prefer horse riding? golf? 
+		--> Bar/Scatter Plot
+		--> static summary
+
+Any relationship between geographic/regional factors and sports?
+	- for example, people in Toronto may like basketball and baseball more; while people in Montreal/Quebec region may like Hockey more?  
+		--> Map plot
+
+
+Project Proposal
+
+Data Sources:
+
+
+https://data.fivethirtyeight.com/
+https://data.world/search
+https://datasetsearch.research.google.com/
+
+
+- SuperBowl Summary 
+
+- the following can be posed as questions
+
+	- Exploratory Data Analysis on viewership vs attendance at venues, what was greater?
+
+	- Ticket sales & 'eateries' vs. home viewership & consumption, correlation?
+
+	- location based attendance vs home viewership, correlation?
+
+	- historical trend and whether current viewership stronger vs a 5 years to a decade ago
+
+	- teams and their impact on ticket sales and attendance vs. home viewership
+
+
+
+Focus
+- dollar value and viewership
+- teams have an impact on the viewership
+- location may have an impact on the attendance
