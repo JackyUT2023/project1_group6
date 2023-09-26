@@ -1,3 +1,13 @@
+Project Proposal
+
+- SuperBowl Summary - the following can be posed as questions
+    - Exploratory Data Analysis on viewership vs attendance at venues
+    - Ticket sales & 'eateries' vs. home viewership & consumption
+    - location based attendance vs home viewership
+    - historical trend and whether current viewership stronger vs a 5 years to a decade ago
+
+
+
 # Material Sources:
     - PPT - Project 1 Notes
     - Canvas Starter File Package - Class_1_Activities
