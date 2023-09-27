@@ -27,7 +27,7 @@ https://datasetsearch.research.google.com/
 	
 - SuperBowl Summary 
 
-EP - Intrigued by the viewership of the single most popular sport in North America, our team decided to analyse the viewership of the SuperBowl event alone, and compare and contrast to any impact due to the location, teams competing, and sports betting.
+EP - Intrigued by the viewership of the single most popular sport in North America, our team decided to analyse the viewership of the SuperBowl event alone, and compare and contrast to any impacts on viewership/attendance due to the location, teams competing, and sports betting. Also will look into any dollar values impacting viewership/attendance.
 
 - the following can be posed as questions
 
