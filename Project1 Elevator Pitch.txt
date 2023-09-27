@@ -1,21 +1,38 @@
 Project Proposal
+***---------------------------------------------------------------------------------------------------------------------
+***Possible Data Sources:
+	***Concern: Can we use data from Wikipedia?
 
-Data Sources:
+https://www.dropbase.io/post/top-11-open-and-public-data-sources
+https://www.geeksforgeeks.org/top-8-free-dataset-sources-to-use-for-data-science-projects/
+https://github.com/awesomedata/awesome-public-datasets
+https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/
+https://learn.g2.com/open-data-sources
+https://open.canada.ca/en/using-open-data
+https://dataportals.org/
+https://rapidapi.com/collection/list-of-free-apis
 
-
+https://towardsdatascience.com/analyzing-the-superbowl-history-dataset-1967-2020-fdee01a760c9
+https://github.com/lskelnik/Superbowls
+https://zylalabs.com/api-marketplace/sports/super+bowl+historical+api/1567
+https://medium.com/@raul.contreras/super-bowl-analysis-for-fans-and-non-fans-924bc0096265
+https://sportsdata.io/
 https://data.fivethirtyeight.com/
 https://data.world/search
 https://datasetsearch.research.google.com/
+***---------------------------------------------------------------------------------------------------
 
-
+***----------------------------------------------------------------------------------------------------
+***Below are our outlines of the project. -------------------------------------------------------------
+	
 - SuperBowl Summary 
-
+	
 - the following can be posed as questions
 
 	- Exploratory Data Analysis on viewership vs attendance at venues, what was greater?
 
 	- Ticket sales & 'eateries' vs. home viewership & consumption, correlation?
-
+	***Please avoid Pie charts, Tom doesn't like it. LOL
 	- location based attendance vs home viewership, correlation?
 
 	- historical trend and whether current viewership stronger vs a 5 years to a decade ago
