@@ -1,25 +1,3 @@
-Topic: Sports Statistics - 
-
-
-
-Possible data source:
-	- Ticket sales in differnt sport centers - How much people are willing to spends on watching live sport games 
-		--> API/CSV
-	- Data from TV sport channels --> API/CSV 
-		--->>Pie Chart
-	- # of sport players data on current and previous years from official organizations
-		--> Trend Analysis -->>Liner Regression and prediction
-
-Any relationship between income and sports?
-	- for example, people in higher income would prefer horse riding? golf? 
-		--> Bar/Scatter Plot
-		--> static summary
-
-Any relationship between geographic/regional factors and sports?
-	- for example, people in Toronto may like basketball and baseball more; while people in Montreal/Quebec region may like Hockey more?  
-		--> Map plot
-
-
 Project Proposal
 
 Data Sources:
