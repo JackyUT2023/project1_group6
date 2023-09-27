@@ -1,5 +1,8 @@
 Topic: Sports Statistics - 
 
+Project Proposal
+
+Elevator Pitch - Intrigued by the viewership of the single most popular sport in North America, our team decided to analyse the viewership of the SuperBowl event alone, and compare and contrast to any impact due to the location, teams competing, and sports betting.
 
 
 Possible data source:
@@ -34,19 +37,15 @@ https://datasetsearch.research.google.com/
 
 - the following can be posed as questions
 
-	- Exploratory Data Analysis on viewership vs attendance at venues, what was greater?
-
-	- Ticket sales & 'eateries' vs. home viewership & consumption, correlation?
-
-	- location based attendance vs home viewership, correlation?
-
-	- historical trend and whether current viewership stronger vs a 5 years to a decade ago
-
-	- teams and their impact on ticket sales and attendance vs. home viewership
+    - Location based attendance vs home viewership, correlation?
+    - Historical trend and whether current viewership stronger vs a 5 years to a decade ago
+        - Viewership at home vs Attendance at Venues, what was greater?
+    - Teams and their impact on ticket sales and attendance vs. home viewership
+    - Has sports betting impacted viewership of the superbowl and the sport itself?
 
 
 
 Focus
-- dollar value and viewership
+- viewership and dollar value
 - teams have an impact on the viewership
 - location may have an impact on the attendance
