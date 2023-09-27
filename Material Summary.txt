@@ -1,12 +1,22 @@
 Project Proposal
 
-- SuperBowl Summary - the following can be posed as questions
-    - Exploratory Data Analysis on viewership vs attendance at venues
-    - Ticket sales & 'eateries' vs. home viewership & consumption
-    - location based attendance vs home viewership
-    - historical trend and whether current viewership stronger vs a 5 years to a decade ago
+EP - Intrigued by the viewership of the single most popular sport in North America, our team decided to analyse the viewership of the SuperBowl event alone, and compare and contrast to any impact due to the location, teams competing, and sports betting.
 
 
+SuperBowl Summary - the following posed as questions
+    - Location based attendance vs home viewership, correlation?
+    - Historical trend and whether current viewership stronger vs a 5 years to a decade ago
+        - Viewership at home vs Attendance at Venues, what was greater?
+    - Teams and their impact on ticket sales and attendance vs. home viewership
+    - Has sports betting impacted viewership of the superbowl and the sport itself?
+
+Focus
+    - Viewership first, and dollar value after 
+    - Teams have an impact on the viewership
+    - Location may have an impact on the attendance
+
+
+___________________________________________________________________________________________________
 
 # Material Sources:
     - PPT - Project 1 Notes
