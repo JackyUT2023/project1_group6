@@ -1,0 +1,45 @@
+Project Proposal
+***---------------------------------------------------------------------------------------------------------------------
+***Possible Data Sources:
+	***Concern: Can we use data from Wikipedia?
+
+https://www.dropbase.io/post/top-11-open-and-public-data-sources
+https://www.geeksforgeeks.org/top-8-free-dataset-sources-to-use-for-data-science-projects/
+https://github.com/awesomedata/awesome-public-datasets
+https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/
+https://learn.g2.com/open-data-sources
+https://open.canada.ca/en/using-open-data
+https://dataportals.org/
+https://rapidapi.com/collection/list-of-free-apis
+
+https://towardsdatascience.com/analyzing-the-superbowl-history-dataset-1967-2020-fdee01a760c9
+https://github.com/lskelnik/Superbowls
+https://zylalabs.com/api-marketplace/sports/super+bowl+historical+api/1567
+https://medium.com/@raul.contreras/super-bowl-analysis-for-fans-and-non-fans-924bc0096265
+https://sportsdata.io/
+https://data.fivethirtyeight.com/
+https://data.world/search
+https://datasetsearch.research.google.com/
+***---------------------------------------------------------------------------------------------------
+
+***----------------------------------------------------------------------------------------------------
+***Below are our outlines of the project. -------------------------------------------------------------
+	
+- SuperBowl Summary 
+
+EP - Intrigued by the viewership of the single most popular sport in North America, our team decided to analyse the viewership of the SuperBowl event alone, and compare and contrast to any impacts on viewership/attendance due to the location, teams competing, and sports betting. Also will look into any dollar values impacting viewership/attendance.
+
+- the following can be posed as questions
+
+    - Location-based attendance vs home viewership, correlation?
+    - Historical trend and whether current viewership was stronger vs a 5 year trend or a decade long trend
+        - Viewership at Home vs Attendance at Venues, what was greater?
+		***Please avoid Pie charts, Tom doesn't like it. LOL
+    - Teams and their impact on ticket sales and attendance vs. home viewership
+    - Has sports betting impacted viewership of the superbowl and the sport itself?
+
+
+Focus
+- viewership and dollar value
+- teams have an impact on the viewership
+- location may have an impact on the attendance
