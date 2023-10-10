@@ -41,4 +41,4 @@ NFL&SportsBetting.ipynb
 -	'fig, ax1 = plt.subplots()' & '..twinx()' structure pulled from stackoverflow/chatgpt. Legend handling code 'lines, labels ....er left') pulled from BingChat/Stackoverflow in relation to subplots() function usage
 -	Piechart color codes pulled from BingChat
 -	Restructured the percentages "%" in the piechart due to valueerror occurrence. utilized chatgpt for '..str.rstrip('%')' to remove the trailing character on the number and reassign astype to float
--	Figsize adjustment as well as margin size adjustment from chatgpt to fig 'cropping' on saved figures - to no avail.
+-	Figsize adjustment as well as margin size adjustment from chatgpt to fig 'cropping' on saved figures - to no use, figures in presentation still cropped after multiple adjustments.
