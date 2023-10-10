@@ -23,6 +23,14 @@ NFL, Super Bowl & Sports Betting
 Question - Has sports betting impacted viewership of the Super Bowl and the sport itself?
 Most of the research on paper with in-access to the underlying datasets. Reached out to a few authors on sites such as Statista and the American Gaming Association with no response. Sports Betting has developed into a huge market in North America, with state-wide legislation placed, approved, and accepted in 2017 for majority of the states in the US. In Canada, Sports Betting was legalized in 2021 so the underlying reporting data still needs a few years of maturation. Sports betting in the early 2010s was an approx. $100 million legal market and was legalized in 2017. Since the census in 2022, Sports betting within the NFL has increased participants of approx. 70 million people with a sizable increase YoY. Furthermore, the market has increased total to approx. $200 billion plus with the NFL and Super Bowl holding the largest amounts of bets, and viewership of all time. Super Bowl LVI had approx. $1.1 billion worth of bets placed in the entire 2022 season accumulating a total of $7.6 billion of bets. The 2023 season, till August, accumulated $6.2 billion of bets alone, with the next year’s playoffs occurring in that timeframe. Overall, the NFL and College football leads the entire segment with a total of 28.8% of the market share.
 
+References
+- Super bowl ratings and viewership, all-time	https://www.sportsmediawatch.com/super-bowl-ratings-historical-viewership-chart-cbs-nbc-fox-abc/
+- Sports Betting Revenue Tracker: US Betting Revenue & Handle By State (legalsportsreport.com)	https://www.legalsportsreport.com/sports-betting/revenue/
+- Nearly 73.5M American adults will bet on NFL this season, survey says - ESPN	https://www.espn.co.uk/chalk/story/_/id/38338437/nearly-735m-american-adults-bet-nfl-season-survey-says
+- Football's Big Game: Charting Super-Sized Bets (2013-2022) (visualcapitalist.com)	https://www.visualcapitalist.com/super-sized-bets-for-footballs-big-game/
+- How Sports Betting is Driving Fan Engagement and Viewership (variety.com)	https://variety.com/2022/sports/tech/how-sports-betting-is-driving-fan-engagement-viewership-1235460169/#:~:text=%25 of Sports Gamblers Who Watch,When Betting on a Game&text=CRG Global found that two,when they have a bet.
+- The Explosive Growth of Sports Betting (visualcapitalist.com)	https://www.visualcapitalist.com/sp/the-explosive-growth-of-sports-betting/
+
 
 Code Readme 
 
@@ -32,4 +40,3 @@ NFL&SportsBetting.ipynb
 -	Piechart color codes pulled from BingChat
 -	Restructured the percentages "%" in the piechart due to valueerror occurrence. utilized chatgpt for '..str.rstrip('%')' to remove the trailing character on the number and reassign astype to float
 -	Figsize adjustment as well as margin size adjustment from chatgpt to fig 'cropping' on saved figures - to no avail.
-
