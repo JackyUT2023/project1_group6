@@ -2,6 +2,25 @@
 
 This is our UT Bootcamp project1. We are in group6.
 
+Project1_Jacky.ipynb
+This file anaylizes the data downloaded from espn.com regarding the attendance of different teams, games, years of NFL, NBA, MLB. and trying to find out which sport have the most attendance on average per game in United States.
+  Data Sources:
+	  https://www.espn.com/nfl/attendance
+	  https://www.espn.com/mlb/attendance
+	  https://www.espn.com/nba/attendance
+  Resources files:
+	  mlb_attendance_2017 - 2022.csv
+	  nba_attendance_2017 - 2022.csv
+	  nfl_attendance_2017 - 2022.csv
+  More explanation for the csv tables generated from about url.
+	  The GMS, TOTAL, AVG, PCT columes are the home data;
+	  The GMS.1, AVG.1, PCT.1 columes are the road data;
+	  The GMS.2, AVG.2, PCT.2 columes are the overall data.
+  Data cleaning process:
+	  1.Read csv files in Resources folder, and re-formating the string values to integer so that we can make some calculation after that.
+	  2.Use average attendance of each home team data and get the average value of the whole set to represent the average attendance of the sport.
+	  3.Merge the the average data into a new dataframe and build a plot based on it.
+
 super_bowl_history.ipynb
 This file anaylizes the data retrieved on Super Bowl game history. So that we could compare data treands between viewership, attendance, locations and teams.
 Data Sources:
